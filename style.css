@@ -59,6 +59,7 @@ h3 {
   left: 50%;
   transform: translate(-50%);
   bottom: -25px;
+  cursor: pointer;
 }
 .dice img {
   cursor: pointer;
